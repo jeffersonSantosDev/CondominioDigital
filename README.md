@@ -42,6 +42,4 @@ Este projeto está em construção e será expandido com funcionalidades como:
 
 Sistema de login
 
-Integração com APIs de pagamento
-
 Painel administrativo para moderadores
